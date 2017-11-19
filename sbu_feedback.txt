@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=IIvA-zT8gbA
+http://www.webslesson.info/2016/09/php-ajax-display-dynamic-mysql-data-in-bootstrap-modal.html
+http://www.webslesson.info/2016/10/php-ajax-update-mysql-data-through-bootstrap-modal.html
+http://www.itidabhoi.org/demo/bootstrap-crud-php/
+https://www.codexworld.com/bootstrap-modal-popup-form-submit-jquery-ajax-php/
